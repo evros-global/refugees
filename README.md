@@ -1,2 +1,2 @@
-# refugees
+# Refugees
 Bootcamp for refugees
